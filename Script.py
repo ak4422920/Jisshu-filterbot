@@ -117,7 +117,7 @@ User - {}"""
 ⭐ Rating: {rating} / 10</b>
 """
 
-    FILE_CAPTION = """<b>{file_name}</b>"""
+    FILE_CAPTION = """<b><a href="https://t.me/cineoriginals">{file_name}</a></b>"""
 
     ALRT_TXT = """ᴡʜᴀᴛ ᴀʀᴇ ʏᴏᴜ sᴇᴀʀᴄʜɪɴɢ !?"""
 
