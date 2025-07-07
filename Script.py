@@ -149,15 +149,15 @@ User - {}"""
 
 2:- ᴍᴀᴋᴇ ᴛʜɪs <a href=https://t.me/{}</a> ᴀᴅᴍɪɴ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ.
 
-3:- ᴄʀᴇᴀᴛᴇ ᴀᴄᴄᴏᴜɴᴛ ᴏɴ ᴀɴʏ sʜᴏʀᴛɴᴇʀ ʟɪᴋᴇ ʏᴏᴜ ᴄᴀɴ ᴀʟsᴏ ᴜsᴇ ᴛʜɪs ʙᴇsᴛ sʜᴏʀᴛɴᴇʀ <a href=https://linkmonetizer.in/ref/jisshu>Best Shortner</a>.
+3:- ᴄʀᴇᴀᴛᴇ ᴀᴄᴄᴏᴜɴᴛ ᴏɴ ᴀɴʏ sʜᴏʀᴛɴᴇʀ ʟɪᴋᴇ ʏᴏᴜ ᴄᴀɴ ᴀʟsᴏ ᴜsᴇ ᴛʜɪs ʙᴇsᴛ sʜᴏʀᴛɴᴇʀ <a href=https://linkshortify.com/ref/TheSonGoku>Best Shortner</a>.
 
 4:- ᴛʜᴇɴ sᴇᴛ ʏᴏᴜʀ sʜᴏʀᴛɴᴇʀ ᴅᴇᴛᴀɪʟs ʙʏ ᴛʜɪs ꜰᴏʀᴍᴀᴛ 👇
 
-<code>/set_verify linkmonetizer.in fcee6bbc628cfc61229a2d808e1b0ee3315a0f5e</code>
+<code>/set_verify linkshortify.com c8c51280ae7b73b07b278a6ec131c3fb9d1598c5</code>
 
-<code>/set_verify_2 linkmonetizer.in fcee6bbc628cfc61229a2d808e1b0ee3315a0f5e</code>
+<code>/set_verify_2 linkshortify.com c8c51280ae7b73b07b278a6ec131c3fb9d1598c5</code>
 
-<code>/set_verify_3 linkmonetizer.in fcee6bbc628cfc61229a2d808e1b0ee3315a0f5e</code>
+<code>/set_verify_3 linkshortify.com c8c51280ae7b73b07b278a6ec131c3fb9d1598c5</code>
 
 <code>/set_tutorial https://t.me/how_to_open_link_ak</code>
 
@@ -339,10 +339,10 @@ User - {}"""
 --------------Broadcast--------------
 ➩ /broadcast - /grp_broadcast
 --------------Set Ads----------------
-➩ /set_ads {ads name}#{Times}#{photo URL} - <a href="https://t.me/Jisshu_developer/11">Explain</a>
+➩ /set_ads {ads name}#{Times}#{photo URL} - <a href="https://t.me/Disneyplusjiohotstar/18">Explain</a>
 ➩ /del_ads - Delete ads
 -------------Top Trending------------
-➩ /setlist {Mirzapur, Money Heist} - <a href="https://t.me/Jisshu_developer/10">Explain</a>
+➩ /setlist {Mirzapur, Money Heist} - <a href="https://t.me/Disneyplusjiohotstar/17">Explain</a>
 ➩ /clearlist - Clear all lists
 </blockquote></b>"""
 
@@ -360,7 +360,7 @@ User - {}"""
 ------------Set File Caption-----------
 /set_caption - set coustom file caption 
 -----------Set Imdb Template-----------
-/set_template - set IMDb template <a href="https://t.me/Jisshu_developer/8">Example</a>
+/set_template - set IMDb template <a href="https://t.me/Disneyplusjiohotstar/13">Example</a>
 --------------Set Tutorial-------------
 /set_tutorial - set verification tutorial 
 -------------Set Log Channel-----------
@@ -389,10 +389,10 @@ Aᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴍᴀᴋᴇ ᴍᴇ ᴀ�
 ➩ /verifyon - on verification 
 ➩ /verifyoff - off verification only for group
 --------------Set Ads----------------
-➩ /set_ads {ads name}#{Times}#{photo URL} - <a href="https://t.me/Jisshu_developer/11">Explain</a>
+➩ /set_ads {ads name}#{Times}#{photo URL} - <a href="https://t.me/Disneyplusjiohotstar/18">Explain</a>
 ➩ /del_ads - Delete ads
 -------------Top Trending------------
-➩ /setlist {Mirzapur, Money Heist} - <a href="https://t.me/Jisshu_developer/10">Explain</a>
+➩ /setlist {Mirzapur, Money Heist} - <a href="https://t.me/Disneyplusjiohotstar/17">Explain</a>
 ➩ /clearlist - Clear all lists
 --------------Index File--------------
 ➩ /index - Index all files
@@ -431,7 +431,7 @@ Aᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴍᴀᴋᴇ ᴍᴇ ᴀ�
 ------------Set File Caption-----------
 /set_caption - set coustom file caption 
 -----------Set Imdb Template-----------
-/set_template - set IMDb template <a href="https://t.me/Jisshu_developer/8">Example</a>
+/set_template - set IMDb template <a href="https://t.me/Disneyplusjiohotstar/13">Example</a>
 --------------Set Tutorial-------------
 /set_tutorial {tutorial link} - set 1 verification tutorial 
 /set_tutorial_2 {tutorial link} - set 2 verification tutorial 
