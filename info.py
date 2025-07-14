@@ -42,7 +42,7 @@ AUTH_CHANNEL = int(environ.get("AUTH_CHANNEL", "-1002442422204"))
 AUTH_REQ_CHANNEL = int(environ.get("AUTH_REQ_CHANNEL", "-1001785093771"))
 LOG_CHANNEL = int(environ.get("LOG_CHANNEL", "-1001954201023"))
 LOG_API_CHANNEL = int(environ.get("LOG_API_CHANNEL", "-1002365383608"))
-LOG_VR_CHANNEL = int(environ.get("LOG_VR_CHANNEL", "-1002365383608"))
+LOG_VR_CHANNEL = int(environ.get("LOG_VR_CHANNEL", "-1002453651327"))
 
 # MongoDB
 DATABASE_URI = environ.get("DATABASE_URI", "")
@@ -86,7 +86,7 @@ SHORTENER_API3 = environ.get(
     "SHORTENER_API3", ""
 )
 SHORTENER_WEBSITE3 = environ.get("SHORTENER_WEBSITE3", "")
-TWO_VERIFY_GAP = int(environ.get("TWO_VERIFY_GAP", "43200"))
+TWO_VERIFY_GAP = int(environ.get("TWO_VERIFY_GAP", "0"))
 THREE_VERIFY_GAP = int(environ.get("THREE_VERIFY_GAP", "0"))
 
 # Language & Quality & Season & Year
