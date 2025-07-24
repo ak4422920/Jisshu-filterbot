@@ -70,14 +70,14 @@ MOVIE_GROUP_LINK = environ.get("MOVIE_GROUP_LINK", "https://t.me/movie_seriesgro
 # Verification
 IS_VERIFY = is_enabled("IS_VERIFY", True)
 # ---------------------------------------------------------------
-TUTORIAL = environ.get("TUTORIAL", "https://t.me/how_to_open_link_ak/19")
+TUTORIAL = environ.get("TUTORIAL", "https://t.me/how_to_open_link_ak/10")
 TUTORIAL_2 = environ.get("TUTORIAL_2", "https://t.me/how_to_open_link_ak")
 TUTORIAL_3 = environ.get("TUTORIAL_3", "https://t.me/how_to_open_link_ak")
 VERIFY_IMG = environ.get(
     "VERIFY_IMG", "https://graph.org/file/1669ab9af68eaa62c3ca4.jpg"
 )
-SHORTENER_API = environ.get("SHORTENER_API", "420c9db1142ef6bd9020a2b9d27b7d1dd0975dcf")
-SHORTENER_WEBSITE = environ.get("SHORTENER_WEBSITE", "link4url.com")
+SHORTENER_API = environ.get("SHORTENER_API", "95c90443f0324be097970c3f704e16eca7116c81")
+SHORTENER_WEBSITE = environ.get("SHORTENER_WEBSITE", "shortxlinks.com")
 SHORTENER_API2 = environ.get(
     "SHORTENER_API2", ""
 )
